@@ -109,7 +109,7 @@ const Home = () => {
             <div className="space-y-4">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">My Projects</h2>
               <p className="max-w-xl md:max-w-2xl lg:max-w-3xl text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                Here are some of the projects I've worked on. Click on a project to learn more about the project.
+                Here are some of the projects I've worked on. Click on a project to learn more.
               </p>
             </div>
             <div>
